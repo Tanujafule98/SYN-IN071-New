@@ -1,4 +1,3 @@
-
 num = 1
 # If given number is greater than 1
 if num > 1:
